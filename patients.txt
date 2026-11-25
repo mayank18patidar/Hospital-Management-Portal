@@ -1,0 +1,11 @@
+1001|Anvay|26|Fever
+1002|Shrishti|21|Viral flu
+1003|Viraj|20|typhoid
+1004|Mayuri|16|cough
+1005|Kritika|18|chickenpox
+1006|Ayesha|26|Normal checkup
+1007|Vineeta|29|Hypertension
+1008|Nishika|24|Hand Injury
+1009|Mrunal|33|diabetes
+1010|Jitesh|32|eye checkup
+1011|Priya|36|migraine
